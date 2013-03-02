@@ -1,5 +1,6 @@
 ICECREAM
 =========
+WORK IN HARD DEVELOPMENT PROCESS
 
 ![Example](https://github.com/polinom/iceream/blob/master/logo.gif?raw=true)
 
